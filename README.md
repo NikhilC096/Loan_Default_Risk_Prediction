@@ -31,7 +31,7 @@ The ROC Curve demonstrates the model's exceptional performance with an AUC score
 ### Feature Importance
 This chart highlights the most influential features in predicting loan defaults. The top predictors include `credit_lines_outstanding` and `total_debt_outstanding`.
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](https://github.com/NikhilC096/Loan_Default_Risk_Prediction/blob/3177fb241162c39dbb0e9f26c7d422346c248a65/3.png)
 
 ### Default Distribution
 The default distribution visualization highlights the class imbalance in the dataset, where non-defaults significantly outnumber defaults.
