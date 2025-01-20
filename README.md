@@ -26,7 +26,7 @@ This project demonstrates the use of machine learning to predict loan default ri
 ### ROC Curve
 The ROC Curve demonstrates the model's exceptional performance with an AUC score of 1.00, indicating perfect predictions.
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](https://github.com/NikhilC096/Loan_Default_Risk_Prediction/blob/4e4768ca5fe69261e60edab8cad536ba38bb6b24/2.png)
 
 ### Feature Importance
 This chart highlights the most influential features in predicting loan defaults. The top predictors include `credit_lines_outstanding` and `total_debt_outstanding`.
