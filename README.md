@@ -20,12 +20,12 @@ This project demonstrates the use of machine learning to predict loan default ri
 - Dataset: Excel file (`Task 3 and 4_Loan_Data.xlsx`)
 
 Results
-ROC Curve: Perfect model performance with AUC = 1.00.
-Feature Importance: Top predictors identified for better decision-making.
-Default Distribution: Insights into the imbalance between default and non-default cases.
+- ROC Curve: Perfect model performance with AUC = 1.00.
+- Feature Importance: Top predictors identified for better decision-making.
+- Default Distribution: Insights into the imbalance between default and non-default cases.
 Future Work
-Experiment with additional datasets to validate the model.
-Explore advanced machine learning algorithms (e.g., XGBoost).
-Build an interactive dashboard for visualizing predictions.
+- Experiment with additional datasets to validate the model.
+- Explore advanced machine learning algorithms (e.g., XGBoost).
+- Build an interactive dashboard for visualizing predictions.
 Contact
-Feel free to share feedback or collaborate!
+- Feel free to share feedback or collaborate!
