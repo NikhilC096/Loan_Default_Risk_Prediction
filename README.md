@@ -19,4 +19,3 @@ This project demonstrates the use of machine learning to predict loan default ri
 - Libraries: Scikit-learn, Pandas, Matplotlib
 - Dataset: Excel file (`Task 3 and 4_Loan_Data.xlsx`)
 
-## Project Structure
