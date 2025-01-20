@@ -23,9 +23,11 @@ Results
 - ROC Curve: Perfect model performance with AUC = 1.00.
 - Feature Importance: Top predictors identified for better decision-making.
 - Default Distribution: Insights into the imbalance between default and non-default cases.
+
 Future Work
 - Experiment with additional datasets to validate the model.
 - Explore advanced machine learning algorithms (e.g., XGBoost).
 - Build an interactive dashboard for visualizing predictions.
+
 Contact
 - Feel free to share feedback or collaborate!
