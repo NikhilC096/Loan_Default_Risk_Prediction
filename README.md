@@ -36,7 +36,7 @@ This chart highlights the most influential features in predicting loan defaults.
 ### Default Distribution
 The default distribution visualization highlights the class imbalance in the dataset, where non-defaults significantly outnumber defaults.
 
-![Default Distribution](images/default_distribution.png)
+![Default Distribution](https://github.com/NikhilC096/Loan_Default_Risk_Prediction/blob/6a4c2a7850eb6b854003115285ef5272aa55858e/1.png)
 
 ---
 
